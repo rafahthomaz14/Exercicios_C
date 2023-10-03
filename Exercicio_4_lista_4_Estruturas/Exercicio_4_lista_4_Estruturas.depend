@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696430312 source:c:\users\unip\desktop\exercicio_4_lista_4_estruturas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
